@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.vbProApps.tb" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>vbPro</name>
+<widget id="com.selaraslawangsewa.zep" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Selaras Lawang Sewu</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        PT. Selaras Lawang Sewu.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="support@Zep.com" href="http://zep.co.id">
+        Zep
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
